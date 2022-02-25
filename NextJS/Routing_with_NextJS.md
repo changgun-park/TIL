@@ -4,7 +4,7 @@
 
 ### **기본적인 라우팅 방법**
 
-<img src="./images/routing_basic.png" align="left"/>
+<img src="../images/routing_basic.png" align="left"/>
 
 - '/' => pages/index.js
 - '/news' => pages/news/index.js

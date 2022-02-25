@@ -2,7 +2,7 @@
 
 ---
 
-<img src="./images/소셜_회원가입.png" align="left" />
+<img src="../images/소셜_회원가입.png" align="left" />
 
 
 
@@ -10,7 +10,7 @@
 
 ---
 
-<img src="./images/소셜_로그인.png" align="left" />
+<img src="../images/소셜_로그인.png" align="left" />
 
 
 
@@ -18,4 +18,4 @@
 
 ---
 
-<img src="./images/파이어베이스_소셜로그인.png" align="left" />
+<img src="../images/파이어베이스_소셜로그인.png" align="left" />
